@@ -7,37 +7,30 @@
 
 ## Getting Started
 
-### Dependencies
+### 라이브러리
 
 * JTattoo v1.6.18 .jar
 * ojdbc 8 .jar
+* JFreeChart
 
-### Installing
+### 개발환경
 
-* Loremipsum
-* Loremipsum
+* DB : Oracle 11
+* Server : Apache Tomcat v.9 , MyBatis
 
-### Executing program
+### 툴
 
-* Loremipsum
-* Loremipsum
-```
-Loremipsum
-```
+* Eclipse
+* SQL Developer
+* exERD
+* draw.io
+* Figma
 
-## Help
 
-Loremipsum
-```
-Loremipsum
-```
 
 ## Authors
 
 | [@권연준](https://github.com/kyunjun98) |[@김민지](www.google.com) | [@김신실](https://github.com/shinsil0601) | [@김지수](www.google.com) | [@이소연](https://github.com/dlthdod ) |  [@이수환](https://www.github.com/shlee8405) |
-| --------------------------------------- | -------------------------| ----------------------------------------- | --------------------------| ------------------------------------- | ------------------------------------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 , , , , , 
 ## Acknowledgments
